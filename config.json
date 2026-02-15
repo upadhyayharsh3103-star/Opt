@@ -1,7 +1,7 @@
 {
 	"host": "nl-01.freezehost.pro",
 	"port": "10342",
-	"username": "Mr Origami",
+	"username": "name",
 	"logger": [ true
 		, "true : displays not necessary logs (ex: key input logs).",
 		"false : displays only necessary logs."
